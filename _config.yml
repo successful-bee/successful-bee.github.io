@@ -46,7 +46,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   cloud security is no longer a thing of the future, it is happening now. lets go on that journey together!
 
 baseurl: "" #successful-bee.github.io/blog  
-url: "" # the base hostname & protocol for your site, e.g. http://successful-bee.com
+url: "" #  http://successful-bee.com
 favicon: "" # the favicon for your site
 
 # Yat date format
